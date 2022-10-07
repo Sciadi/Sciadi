@@ -1,0 +1,2 @@
+features.o: features.cpp features.h
+main.o: main.cpp features.h
