@@ -1,4 +1,1 @@
-Mario;1387.500000
-Ciro;400
-Genno;70
-Alessio;1000
+Mario;1200.000000
